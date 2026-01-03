@@ -2,360 +2,188 @@
 export const DEFAULT_THEME_COLOR = 'rose';
 
 export const DEFAULT_VOICE_SUMMARY = `
-RÉSUMÉ POUR L'ORAL :
---- DOCUMENT 1 : LE SERVICE PUBLIC ---
-I. Pourquoi étudier le service public ?
-Le service public est une donnée fondamentale du droit administratif pour trois raisons :
-* Il permet de définir de nombreuses notions essentielles : contrat administratif, agent public, domaine public…
-* Il sert souvent de critère d’application du droit administratif et de compétence du juge administratif.
-* Une fois une activité reconnue comme service public, elle est soumise à des règles spécifiques (les lois du service public). 
+RÉSUMÉ POUR L'ORAL - CONTENTIEUX ADMINISTRATIF M1
+Cours du Professeur Coulibaly - 2025-2026
 
-II. Définition du service public
-Définition à retenir (fidèle) :
-« Un service public est une activité exercée par une personne publique ou par une personne privée (avec l’habilitation et sous le contrôle d'une personne publique) en vue, principalement, de répondre à un besoin d'intérêt général. »
-Cette définition est basée sur l’arrêt Conseil d’État, Section, 22 février 2007, APREI.
-III. L’identification du service public
-Deux voies : la qualification législative et la qualification jurisprudentielle.
+================================================================================
+AVANT-PROPOS - HISTORIQUE DU CONTENTIEUX ADMINISTRATIF
+================================================================================
 
-A. La qualification législative
-1. Modalités
-* Qualification explicite : la loi dit expressément qu’une activité est un service public.
-* Qualification implicite : la loi qualifie un organisme d’établissement public, lequel gère forcément une activité est un service public.
-2. Portée
-* La qualification législative s’impose au juge.
-* Le juge ne vérifie pas les critères de l’arrêt APREI si la loi a tranché.
-B. La qualification jurisprudentielle (méthode APREI)
-Deux critères cumulatifs :
-1. Critère matériel : l’intérêt général
-* L’activité doit répondre principalement à un besoin d’intérêt général.
-L’intérêt général n’est pas la somme des intérêts particuliers.
-* Il peut résulter d’un arbitrage.
-2. Critère organique : le lien avec une personne publique
-Deux formes :
-* Lien direct : gestion par une personne publique.
-* Lien indirect : gestion par une personne privée habilitée et contrôlée par une personne publique. 
-Arrêts importants :
-* Conseil d’État, assemblée, 20 décembre 1935, Vezia
-* Conseil d’État, assemblée, 13 mai 1938, Caisse primaire Aide et protection
-* Conseil d’État, Section, 22 février 2007, APREI
+Le contentieux administratif français trouve son origine dans la séparation des pouvoirs. Sous l'Ancien Régime, il existait déjà des conflits de juridiction. La Révolution française a posé le principe de la séparation des autorités administrative et judiciaire avec la loi des 16-24 août 1790. Le système de l'administrateur-juge a d'abord prévalu, avant l'émergence progressive d'un véritable contentieux administratif avec la création du Conseil d'État.
 
-IV. Les modes de gestion du service public
-A. Principe : liberté de choix du mode de gestion
-* La collectivité choisit librement : création, suppression, mode de gestion.
-* Limites : obligations légales (ex. état civil, police administrative).
+================================================================================
+PARTIE 1 - STATIQUE DU CONTENTIEUX ADMINISTRATIF
+================================================================================
 
-B. Les deux grandes catégories de gestion
-1. La gestion en régie directe
-Définition :
-« La régie directe (appelée parfois, simplement, régie) est un mode de gestion d’un service public qui consiste en la prise en charge directe du fonctionnement de ce service par la personne publique qui en a la responsabilité, avec ses propres moyens et ses propres agents. »
-Formes :
-* régie simple
-* régie autonome
-* quasi régie (Conseil d’État, Section, 6 avril 2007, Commune d’Aix en Provence)
+--- CHAPITRE 1 : ORGANISATION DE L'ORDRE JURIDICTIONNEL ADMINISTRATIF ---
 
-2. La gestion déléguée
-Deux formes :
-a) Délégation unilatérale
-? habilitation par acte administratif.
-Arrêt :
-* Conseil d’État, 6 mars 2017, Société Marengo
-b) Délégation contractuelle
-Trois définitions à retenir :
-Contrat de concession de service public : « Constitue un contrat de concession de service public tout contrat par lequel une personne (en principe publique et dénommée “autorité concédante”) confie la gestion d’un service public à une personne privée ou publique (dénommée “concessionnaire”), tout en lui transférant le risque lié à l’exploitation du service, en contrepartie soit du droit d’exploiter le service, soit de ce droit assorti d’un prix. »
-Contrat de délégation de service public : « Constitue un contrat de délégation de service public tout contrat par lequel une collectivité territoriale (dénommée “autorité délégante”) confie la gestion d’un service public à une personne privée ou publique (dénommée “délégataire”), tout en lui transférant le risque lié à l’exploitation du service, en contrepartie soit du droit d’exploiter le service, soit de ce droit assorti d’un prix. »
-Marché de service public : « Constitue un marché de service public tout contrat par lequel une personne (en principe publique) confie la gestion d’un service public à une personne privée ou publique, sans transfert de risque, en contrepartie d’une rémunération qui n’est pas liée aux résultats de l’exploitation du service. »
+Section 1 - La diversité des juridictions administratives
 
-V. Le régime du service public
-A. La distinction service public à caractère administratif / Service public à caractère industriel et commercial (SPA / SPIC)
-Intérêt :
-* détermine le droit applicable : droit administratif pour les SPA, droit privé pour les SPIC ;
-* détermine le juge compétent : juge administratif pour les SPA, juge judiciaire pour les SPIC ;
+Il existe deux catégories de juridictions administratives :
 
-Critères :
-* objet du service
-* origine des ressources
-* modalités de fonctionnement
+1. LES JURIDICTIONS DE DROIT COMMUN :
+- Les tribunaux administratifs : juridiction de premier ressort, compétence générale
+- Les cours administratives d'appel : juridiction d'appel depuis 1987
+- Le Conseil d'État : juge de cassation, mais aussi compétent en premier et dernier ressort pour certains litiges (décrets, actes des ministres, certains actes réglementaires)
 
-B. Les trois lois du service public (Lois de Rolland)
-1. Continuité
-? Interdiction des interruptions injustifiées.
-2. Adaptation / Mutabilité
-Le service public doit évoluer.
-3. Égalité
-Interdiction des discriminations injustifiées.
-Trois cas où une différence de traitement est légale :
-* loi
-* différence de situation
-* nécessité d’intérêt général
-Corollaires :
-* neutralité
-* laïcité
-* égal accès aux emplois publics
+2. LES JURIDICTIONS SPÉCIALISÉES :
+Elles sont placées sous le contrôle de cassation du Conseil d'État. Exemples : Cour nationale du droit d'asile, Cour des comptes, tribunaux administratifs spécialisés.
 
-VI. Les établissements publics
-Définition :
-« Un établissement public est une personne publique autonome qui a été spécialement créée afin d’assurer, à titre principal, la gestion d’une activité de service public précisément définie. »
-Types :
-* EPA
-* EPIC
-* établissements à double visage : ainsi appelle-t-on les établissement publics gérant à la fois un SPA et un SPIC.
---- DOCUMENT 2 : LA POLICE ADMINISTRATIVE ---
-I. La police administrative : fonction normative de l’administration
-L’administration exerce deux grandes fonctions (selon Charles Eisenmann) :
-* Fonction de prestation ? service public
-* Fonction normative ? police administrative
-La police administrative est principalement normative, mais accessoirement un service public, avec deux particularités :
-1. Elle ne peut pas être déléguée à une personne privée
-? Conseil d’État, assemblée, 17 juin 1932, Ville de Castelnaudary
-2. Elle est gratuite pour l’usager (financée par l’impôt)
+Section 2 - L'unité de la juridiction administrative
 
-II. Identification de la police administrative
-A. Définition téléologique
-Définition : « La police administrative est une activité qui vise à assurer le maintien de l'ordre public, sans tendre à la recherche ou à l'arrestation des auteurs d'une infraction déterminée. »
-Définition de la police judiciaire :
-« La police judiciaire, c'est une activité qui consiste à constater les infractions à la loi pénale, à en rassembler les preuves et en rechercher les auteurs. »
+L'unité est assurée par plusieurs outils :
+- Le rôle du président de la section du contentieux du Conseil d'État
+- L'avis contentieux sur une question de droit
+- Les voies de recours : appel, cassation, révision, tierce opposition, recours dans l'intérêt de la loi
 
-B. Le contenu de l’ordre public
-1. Les buts principaux (trilogie classique)
-D’après l’article L.2212 2 du CGCT :
-* sécurité publique
-* tranquillité publique
-* salubrité publique
-2. Les buts secondaires
-a) Moralité publique : exclue de la police administrative générale
-* Exception : police administrative spéciale (ex. débits de boissons)
-Arrêts importants :
-* Conseil d’État, Section, 18 décembre 1959, Société Les Films Lutetia
-* Conseil d’État, 13 février 1953, Sieur Hubert de Ternay
-b) Respect de la dignité de la personne humaine : inclus
-Arrêt majeur : Conseil d’État, assemblée, 27 octobre 1995, Commune de Morsang sur Orge.
+Point important : Le Conseil d'État exerce à la fois des fonctions administratives (conseil au gouvernement) et des fonctions contentieuses. Le cloisonnement entre ces deux fonctions garantit l'impartialité.
 
-C. Comment définir la police administrative à l’examen ?
-Formule officielle du cours (fidèle) :
-1. « La police administrative est une activité qui vise à assurer le maintien de l'ordre public, sans tendre à la recherche ou à l'arrestation des auteurs d'une infraction déterminée. »
-2. « Et l’ordre public comprend :
-– la sécurité publique,
-– la tranquillité publique,
-– la salubrité publique,
-– et le respect de la dignité de la personne humaine. »
+--- CHAPITRE 2 : L'ACTION DEVANT LES JURIDICTIONS ADMINISTRATIVES ---
 
-III. Distinction police administrative / police judiciaire
-A. Intérêt juridique (triple)
-1. Droit applicable et juge compétent
-o Police administrative : droit administratif et juge administratif
-o Police judiciaire : droit privé et juge judiciaire
-2. Imputation
-o Police administrative : État, commune, département
-o Police judiciaire : toujours l’État
-3. Procédure
-o Procédures distinctes
+Section 1 - La structure du contentieux administratif
 
-B. Critère juridique : le critère téléologique (finaliste)
-Arrêts fondateurs :
-* Conseil d’État, Section, 11 mai 1951, Consorts Baud ? police judiciaire
-* Tribunal des conflits, 7 juin 1951, Dame Noualek ? police administrative
-Principe :
-* Si l’opération vise une infraction déterminée : police judiciaire ;
-* Sinon ? police administrative
-Cas particuliers :
-* Infraction sur le point d’être commise : police judiciaire
-? Tribunal des conflits, 27 juin 1955, Dame Barbier
-* Infraction imaginaire : police judiciaire
+Deux grandes doctrines expliquent l'organisation du contentieux : celle d'Édouard Laferrière et celle de Léon Duguit.
 
-C. Mélange occasionnel des genres
-1. Police judiciaire puis police administrative 
-? Conseil d’État, 18 mars 1981, Consorts Ferran
-2. Police administrative puis police judiciaire 
-Tribunal des conflits, 12 juin 1978, Société Le Profil
-Règle : Le juge détermine la compétence selon l’opération qui est essentiellement à l’origine du préjudice.
+LES PRINCIPAUX RECOURS :
 
-D. Normes constitutionnelles
-Le Conseil constitutionnel reconnaît :
-* La sauvegarde de l’ordre public comme objectif de valeur constitutionnelle
-(Décision 89 261 DC, 28 juillet 1989)
-* La prévention des atteintes à l’ordre public comme nécessaire à la protection des droits constitutionnels
-(Décision 94 352 DC, 18 janvier 1995)
+1. LE RECOURS POUR EXCÈS DE POUVOIR (REP) :
+- Procès fait à un acte administratif
+- Ouvert même sans texte (principe général du droit)
+- Vise l'annulation de l'acte illégal
+- Recours objectif (pas de droits subjectifs en jeu)
+- Moyens de légalité : compétence, forme, procédure, violation de la loi, erreur de fait, détournement de pouvoir
 
-IV. Mise en œuvre de la police administrative
-A. Répartition des pouvoirs
-1. Police administrative générale vs police administrative spéciale
-* Générale : maintien de l’ordre public sur un territoire donnée ;
-* Spéciale : domaine particulier (chasse, gares, marchés…)
-2. Autorités de police administrative générale
-a) Premier ministre
-* Pouvoir de police générale sans habilitation législative 
-Conseil d’État, 8 août 1919, Labonne
-* Peut édicter des décrets applicables à tout le territoire
-b) Maire
-* Police municipale (L.2212 2 CGCT)
-* Compétence limitée dans les communes à police d’État
-c) Président du conseil départemental
-* Police du domaine départemental
-d) Préfet
-* Police de la circulation sur routes nationales
-* Pouvoir de substitution au maire et au président du conseil départemental (L.2215 1 et L.3221 5 CGCT)
+2. LES RECOURS DE PLEIN CONTENTIEUX :
+- Le juge peut modifier la situation juridique, pas seulement annuler
+- Exemples : contentieux des contrats administratifs, de la responsabilité, des élections
+- Plein contentieux objectif : contentieux des sanctions administratives, des installations classées
+- Plein contentieux subjectif : protection de droits subjectifs (contrats, responsabilité)
 
-3. Manifestations sur la voie publique
-* Pas d’autorisation : simple déclaration préalable
-* Autorité compétente : maire ou préfet selon la commune
-* Base légale : article L.211 1 CSI
+3. LES RECOURS EN DÉCLARATION :
+- Recours en déclaration d'inexistence
+- Recours en appréciation de légalité
+- Recours en interprétation
 
-4. Concours des pouvoirs de police administrative
-Définition : « Il y a concours (rencontre) des pouvoirs de police administrative lorsque différentes autorités prennent des mesures de police administrative relativement aux mêmes circonstances de fait. »
-a) Concours entre deux autorités de police générale
-Principe :
-L’autorité inférieure ne peut qu’aggraver les mesures de l’autorité supérieure
-Arrêts :
-* Conseil d’État, 18 avril 1902, Commune de Néris les Bains
-* Conseil d’État, 8 août 1919, Labonne
-b) Concours entre police spéciale (Premier ministre) et police générale (maire)
-Conseil d’État, juge des référés, 17 avril 2020, Commune de Sceaux
-Conditions pour que le maire intervienne :
-1. Raisons impérieuses locales
-2. Ne pas compromettre la cohérence nationale
+Section 2 - La recevabilité des recours contentieux
 
-V. Le contrôle des mesures de police administrative
-A. Période normale : le triple test de proportionnalité
-1. Origine jurisprudentielle
-* Conseil d’État, 19 mai 1933, Benjamin
-* Conseil d’État, assemblée, 26 octobre 2011, Association pour la promotion de l’image
-2. Les trois étapes du test
-Une mesure de police doit être :
-1. nécessaire
-2. adaptée
-3. proportionnée
+La recevabilité doit être examinée avant le fond. Les conditions sont d'ordre public.
 
-B. Périodes exceptionnelles
-Le juge admet des restrictions plus fortes en cas :
-* de circonstances exceptionnelles
-* d’état de siège
-* d’état d’urgence sécuritaire
-* d’état d’urgence sanitaire
-* du plan Vigipirate
---- DOCUMENT 3: LES ACTES ADMINISTRATIFS UNILATÉRAUX ---
-I. Identification de l’acte administratif unilatéral
-Affirmer qu’un acte est un acte administratif unilatéral revient à dire deux choses :
-1. l’acte est unilatéral
-2. l’acte est administratif
+CONDITIONS DE RECEVABILITÉ RATIONE PERSONAE :
+- Capacité à agir (personnes physiques, personnes morales)
+- Ministère d'avocat obligatoire (sauf exceptions : titres de séjour, contentieux fiscal jusqu'à 10 000 euros)
+- Intérêt à agir : direct et certain. Pour les associations : objet statutaire en rapport avec le litige, ancrage territorial
 
-A. Acte unilatéral / acte plurilatéral
-1. Les critères inopérants
-Deux critères ne permettent pas de distinguer acte unilatéral et contrat :
-* Le nombre d’auteurs 
-? un acte unilatéral peut avoir plusieurs auteurs (ex. arrêté interministériel)
-* Le consentement du destinataire 
-? certains actes unilatéraux nécessitent le consentement (ex. nomination d’un fonctionnaire)
-2. Le critère retenu : la situation juridique du destinataire
-Définition à retenir : Acte administratif unilatéral
-« Un acte administratif unilatéral est un acte de droit public (non législatif et non juridictionnel) destiné à régir le comportement d’une ou plusieurs personnes qui, tantôt étrangères, tantôt associées à son édiction, n’en sont pas, juridiquement, les auteurs. »
-Principe : le destinataire n’est pas juridiquement auteur de l’acte.
+CONDITIONS DE RECEVABILITÉ RATIONE MATERIAE :
+- Décision préalable : obligatoire sauf exceptions (silence de l'administration pendant 2 mois = décision implicite de rejet)
+- Délai de recours : 2 mois en principe pour le REP, à compter de la notification ou de la publication
+- Exigences relatives à la requête : énoncé des conclusions, exposé des moyens, dépôt ou transmission
+- Conditions particulières : recours administratif préalable obligatoire dans certains cas, médiation préalable
 
-B. Acte administratif unilatéral / acte de droit privé
-1. Les actes des personnes publiques
-Principe :
-Les actes unilatéraux des personnes publiques sont administratifs (critère organique)
-Exceptions (critère fonctionnel) :
-Certains actes sont de droit privé, notamment :
-* actes non réglementaires relatifs au domaine privé 
-Conseil d’État, 23 juillet 1931, Dame Grand d’Esnon 
-Tribunal des conflits, 24 octobre 1994, Duperray
-* actes non réglementaires relatifs aux SPIC 
-? Conseil d’État, 18 décembre 1957, Commune de Golbey
-2. Les actes des personnes privées
-Principe :
-Les actes unilatéraux des personnes privées sont de droit privé (critère organique)
-Exception :
-Ils sont administratifs lorsqu’ils traduisent l’exercice de prérogatives de puissance publique dans le cadre d’un service public.
-Arrêts :
-* Conseil d’État, Section, 13 janvier 1961, Magnier
-* Tribunal des conflits, 15 janvier 1968, Compagnie Air France c/ Époux Barbier
-* Conseil d’État, Section, 22 novembre 1974, Fédération des industries françaises d’articles de sport
+--- CHAPITRE 3 : LA PROCÉDURE ORDINAIRE DU PROCÈS ADMINISTRATIF ---
 
-II. Typologie des actes administratifs unilatéraux
-Définition : Un acte administratif unilatéral est un acte de droit public (non législatif et non juridictionnel) destiné à régir le comportement d’une ou plusieurs personnes qui, tantôt étrangères, tantôt associées à son édiction, n’en sont pas, juridiquement, les auteurs.
-Trois grandes distinctions :
-1. décisions ou actes décisoires / actes non décisoires
-2. actes réglementaires / actes individuels
-3. décisions explicites / décisions implicites
+Section 1 - Les éléments constitutifs de l'instance
 
-III. Actes réglementaires et actes individuels
-A. Critère de distinction
-Définition : « Un acte administratif individuel est un acte administratif unilatéral qui a pour destinataires une ou plusieurs personnes qu’il désigne nommément ou nominativement. »
-Définition : « Un acte administratif réglementaire est un acte administratif unilatéral qui a pour destinataires une ou plusieurs personnes qu’il désigne abstraitement ou qu’il ne désigne pas explicitement. »
-Les décisions d’espèce
-Catégorie intermédiaire (actes mixtes)
-ex. Conseil d’État, 25 septembre 2009, Commune de Coulomby
+LES ACTEURS DU PROCÈS :
+- Les parties : demandeur, défendeur, parties attraites (par le juge, par le demandeur, par le défendeur)
+- Les participants : intervenants volontaires, appelés en déclaration de jugement commun, appelés pour observations
 
-B. Intérêt de la distinction
-1. Publicité
-Définition : Publication
-« La publication d’un acte administratif consiste à assurer sa diffusion sur un support accessible, simultanément ou presque, au plus grand nombre. »
-Définition : Notification
-« La notification d’un acte administratif consiste à communiquer la connaissance de cet acte d’une manière personnalisée. »
-2. Recours contentieux
-* Voie d’action : REP dans les 2 mois (délai franc)
-* Voie d’exception : 
-o actes réglementaires ? exception perpétuelle
-o actes individuels ? exception limitée au délai de recours
-Définition : Exception d’illégalité
-« L’exception d’illégalité, c’est un acte de procédure qui consiste à demander l’annulation d’un acte administratif en contestant la légalité d’un autre acte sur la base duquel ou pour l'application duquel il a été pris. »
-Arrêt majeur :
-* Conseil d’État, assemblée, 18 mai 2018, CFDT Finances (vices invocables)
+LES CONCLUSIONS ET LES MOYENS :
+- Conclusions : prétentions des parties (annulation, condamnation, etc.)
+- Moyens : arguments juridiques à l'appui des conclusions
+- Le juge peut relever d'office les moyens d'ordre public (incompétence, irrecevabilités)
+- Cristallisation des moyens : possibilité ou non d'invoquer des moyens nouveaux en appel
 
-IV. Actes décisoires et actes non décisoires
-A. Les décisions administratives
-Définition : Décision administrative
-« Une décision administrative est un acte administratif unilatéral qui affecte l’ordonnancement juridique. »
-Définition : « L’ordonnancement juridique, c’est l'ensemble des règles de droit qui régissent un milieu social et des situations juridiques dont sont titulaires les personnes. »
+Section 2 - L'instruction et le jugement
 
-B. Décisions explicites / décisions implicites
-Définition : « Une décision explicite (ou expresse) est une décision prise expressément (c’est-à-dire en s’exprimant) par l’administration. »
-Définition : « Une décision implicite est une décision qu’un texte normatif déduit du silence gardé, pendant un certain temps, par l’autorité administrative saisie d’une demande. »
-Naissance d’une décision implicite et règle du silence valant acceptation
-• Origine : la décision implicite naît toujours à la suite d’une demande adressée à l’administration ; elle n’existe pas spontanément.
-• Mécanisme : l’administré saisit l’autorité compétente ; l’administration n’accepte ni ne rejette explicitement la demande ; le silence de l’administration, au terme d’un délai fixé par la loi ou le règlement, est juridiquement interprété comme une décision.
-• Principe général : sauf exceptions légales, le silence gardé pendant deux mois par l’administration sur une demande vaut décision d’acceptation ; le délai court à partir de la réception de la demande par l’administration compétente.
-• Exceptions : certains domaines prévoient des délais différents ou que le silence vaut rejet ; les textes sectoriels peuvent déroger au principe.
-• Nature juridique : la décision implicite est une fiction juridique produisant des effets comparables à une décision expresse.
-Principe depuis 2013 :
-Silence = acceptation au bout de 2 mois
-Exceptions nombreuses (ex. demandes financières)
+L'INSTRUCTION :
+Caractères généraux :
+- Procédure essentiellement écrite
+- Procédure inquisitoriale : le juge dirige l'instruction
+- Procédure contradictoire : chaque partie doit pouvoir répondre aux arguments de l'autre
 
-V. Les actes non décisoires
-A. Les circulaires
-Définition : « Une circulaire est un acte de portée générale adressé par un chef de service aux agents placés sous son autorité à l’effet de leur indiquer la manière d’interpréter et d’appliquer les dispositions des lois et règlements ainsi que d’assurer l’organisation et le fonctionnement du service. »
-Typologie :
-* circulaires réglementaires
-* circulaires interprétatives
-* circulaires impératives
-Définition : « Une circulaire revêt un caractère impératif lorsqu’en raison des termes employés par son auteur ses destinataires sont tenus d’appliquer ses dispositions. »
+Déroulement :
+- Traitement liminaire du dossier
+- Mise en œuvre de la contradiction
+- Charge de la preuve : en principe sur le demandeur, mais le juge peut ordonner des mesures d'instruction
+- Incidents de procédure : désistement, non-lieu à statuer
+- Clôture de l'instruction
 
-B. Les lignes directrices
-Arrêts fondateurs :
-* Conseil d’État, Section, 11 décembre 1970, Crédit foncier de France
-* Conseil d’État, Section, 4 février 2015, Cortes Ortiz
-Définition : « On appelle “lignes directrices” un acte de portée générale par lequel une autorité disposant d’un pouvoir d’appréciation […] se fixe à elle-même ou indique à ses subordonnés une ligne de conduite dans l’exercice de ce pouvoir. »
-Conditions de légalité :
-* ne pas méconnaître les buts de la réglementation
-* ne pas violer des principes supérieurs
-* ne pas être impératives
+LE JUGEMENT :
+- Audience publique : intervention du rapporteur, conclusions du rapporteur public, observations des parties
+- Délibéré : secret du délibéré, présence du rapporteur public
+- Décision juridictionnelle : mentions obligatoires, motivation obligatoire
+- Prononcé et notification
+- Autorité de la décision : autorité de chose jugée
 
-C – La recevabilité du recours pour excès de pouvoir contre les circulaires et les lignes directrices
- En ce qui concerne la recevabilité du recours pour excès de pouvoir contre les circulaires et les lignes directrices, le Conseil d’État a adopté, durant les vingt dernières années, deux solutions dont la seconde amplifie ce qui était sous-jacent à la première. 
-1. Solution antérieure qui ne concernait que les circulaires :
-Conseil d’État, Section, 18 décembre 2002, Mme Duvignères.
- Un recours pour excès de pouvoir exercé contre une circulaire impérative (ou contre les dispositions impératives à caractère général d’une circulaire) est recevable (si les autres conditions de recevabilité sont remplies : délai, etc.) ;
- En revanche, un recours pour excès de pouvoir formé contre une circulaire non impérative (ou seulement contre les dispositions non impératives d’une circulaire) est irrecevable.
-2. Solution actuelle qui concerne aussi bien les circulaires que les lignes directrices
-Conseil d’État, Section, 12 juin 2020, GISTI
- Un recours pour excès de pouvoir exercé contre un acte de référence interne est recevable à une condition :
- Que cet acte de référence interne soit « susceptible d'avoir des effets notables sur les droits ou la situation d'autres personnes que les agents chargés de l’appliquer ».
- Remplissent cette condition, notamment :
-* les circulaires impératives
-* et toutes les lignes directrices.
- Est donc recevable un recours pour excès de pouvoir exercé 
-* contre une circulaire impérative (mais pas contre les circulaires sans effets notables) 
-* ou contre des lignes directrices – Voir ODINET (Guillaume), Conclusions sur Conseil d’État, Section, 12 juin 2020, GISTI.
+--- CHAPITRE 4 : LES PROCÉDURES DE RÉFÉRÉ ---
+
+Le référé est une procédure d'urgence permettant d'obtenir des mesures provisoires rapidement.
+
+RÉFÉRÉS PRÉPARATOIRES :
+- Référé-constat
+- Référé-instruction
+
+RÉFÉRÉS D'ATTENTE :
+- Référé-mesures utiles
+
+RÉFÉRÉS D'URGENCE (LES PLUS IMPORTANTS) :
+
+1. RÉFÉRÉ-SUSPENSION (Article L. 521-1 CJA) :
+Conditions cumulatives :
+- Requête au fond déposée (REP ou recours en réformation)
+- Urgence : la décision doit préjudicier de manière suffisamment grave et immédiate à un intérêt public, à la situation du requérant ou aux intérêts qu'il défend
+- Doute sérieux quant à la légalité de la décision
+
+Le juge peut suspendre l'exécution de la décision ou de certains de ses effets.
+
+2. RÉFÉRÉ-LIBERTÉ (Article L. 521-2 CJA) :
+Conditions cumulatives :
+- Atteinte à une liberté fondamentale (39 libertés reconnues : liberté d'aller et venir, d'expression, droit de propriété, liberté d'entreprendre, droit de se marier, droit de grève, etc.)
+- Atteinte grave
+- Atteinte manifestement illégale (illégalité évidente, ne prêtant pas à discussion)
+- Urgence (condition plus stricte qu'en référé-suspension)
+
+Le juge statue en 48 heures et peut ordonner toutes mesures nécessaires à la sauvegarde de la liberté.
+
+RÉFÉRÉS SUBSTANTIELS :
+
+3. RÉFÉRÉ-PROVISION :
+Permet d'obtenir le versement d'une provision lorsqu'il existe une urgence et une obligation non sérieusement contestable.
+
+4. RÉFÉRÉS CONTRACTUELS :
+- Référé précontractuel : avant la signature du contrat, en cas de manquement aux obligations de publicité et de mise en concurrence
+- Référé contractuel : après la signature, pendant l'exécution du contrat
+
+================================================================================
+POINTS CLÉS À RETENIR
+================================================================================
+
+1. ORGANISATION :
+- 3 niveaux de juridiction : TA, CAA, Conseil d'État
+- Le Conseil d'État est juge de cassation, mais aussi compétent en premier et dernier ressort pour certains litiges
+
+2. RECOURS :
+- REP : annulation d'un acte illégal, ouvert même sans texte
+- Plein contentieux : le juge peut modifier, condamner, pas seulement annuler
+
+3. RECEVABILITÉ :
+- Intérêt à agir : direct et certain
+- Délai : 2 mois en principe
+- Décision préalable obligatoire (sauf exceptions)
+
+4. PROCÉDURE :
+- Écrite, inquisitoriale, contradictoire
+- Le juge relève d'office les moyens d'ordre public
+- Motivation obligatoire des jugements
+
+5. RÉFÉRÉS :
+- Référé-suspension : urgence + doute sérieux
+- Référé-liberté : liberté fondamentale + atteinte grave + manifeste illégalité + urgence (48h)
+- Référé-provision : urgence + obligation non sérieusement contestable
+
+================================================================================
+FIN DU RÉSUMÉ VOCAL
+================================================================================
 `;
 
 export const DEFAULT_COURSE_CONTENT = `
@@ -2886,6 +2714,7 @@ INTERDICTION :
 - Ne donnez pas de références d'arrêts détaillées (réservé au chat textuel)
 
 `;
+
 
 
 
